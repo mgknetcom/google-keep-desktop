@@ -1,0 +1,36 @@
+{
+	"name": "google-keep-desktop",
+	"version": "1.0.0",
+	"description": "Cross-platform electron powered desktop version of Google Keep",
+	"keywords": [
+		"google keep",
+		"electron",
+		"notes",
+		"macos",
+		"windows",
+		"linux"
+	],
+	"author": "Gabriel Kanev <contact@mgknet.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/mgknet/google-keep-desktop.git"
+	},
+	"bugs": {
+		"url": "https://github.com/mgknet/google-keep-desktop/issues"
+	},
+	"main": "index.js",
+	"engines": {
+		"node": "12.13.x",
+		"npm": "6.9.x"
+	},
+	"scripts": {
+		"bootstrap": "npm i && npm run build",
+		"build": "node .",
+		"clean": "rm -rf ./bin",
+		"clean:all": "rm -rf ./bin ./node_modules"
+	},
+	"dependencies": {
+		"nativefier": "^8.0.6"
+	}
+}
