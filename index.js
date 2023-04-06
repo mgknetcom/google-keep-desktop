@@ -14,7 +14,7 @@ require("nativefier").default(
 		insecure: false,
 		internalUrls: ".*accounts.google.com.*",
 		userAgent:
-			"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0",
+			"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0",
 		honest: false,
 		zoom: 1.0,
 		disableDevTools: false,

@@ -2,7 +2,7 @@
 
 ## Description
 
-Cross platform (MacOS, Windows, Linux) Electron powered desktop Google Keep application.
+Cross-platform (MacOS, Windows, Linux) Electron powered desktop Google Keep application.
 
 ## Features
 
@@ -11,8 +11,8 @@ Cross platform (MacOS, Windows, Linux) Electron powered desktop Google Keep appl
 
 ## Requirements
 
-- `Node.js` >= 12.13.0
-- `npm` >= 6.9.0
+- `Node.js` >= 19.8.0
+- `npm` >= 9.5.0
 
 ## Compiling
 
