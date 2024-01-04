@@ -1,8 +1,10 @@
 # Google Keep Desktop
 
+## The project is [archived](https://github.com/nativefier/nativefier/issues/1577).
+
 ## Description
 
-Cross-platform (MacOS, Windows, Linux) Electron powered desktop Google Keep application.
+Cross-platform (MacOS, Windows, Linux) Electron-powered desktop Google Keep application.
 
 ## Features
 
